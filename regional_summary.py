@@ -26,3 +26,6 @@ print("Regional Sales Summary")
 print("total:", calculate_total(sales_by_region))
 
 print("average:", calculate_average(sales_by_region))
+
+print("Number of regions:", len(sales_by_region))
+
