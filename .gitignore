@@ -1,0 +1,10 @@
+# Python
+___pycache__/
+*.pyc
+
+#Operating system
+.DS_Store
+Thumbs.db
+
+#editor
+.vscode/
