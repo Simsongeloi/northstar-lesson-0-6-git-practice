@@ -1,0 +1,39 @@
+Profile has photo, name, bio
+- [x ] Lesson 0.6 practice repo exists with at least 2 commits
+- [x ] At least one additional lesson repo from 0.6 Practice Exercise
+- [x ] Master portfolio repo (`northstar-portfolio-yourname`) exists
+- [ x] Master portfolio README has links and About Me
+
+## Google Drive
+- [x] `Northstar Coursework` folder exists
+- [x] 13 module folders (00 through 12)
+- [x] 4 subfolders inside `00 - Prework`
+- [ ] 3 templates at top level
+- [ ] 9 lesson notes documents in `00 - Prework / Lesson Notes`
+- [ ] Module 0 artifacts in `00 - Prework / Project Artifacts`
+- [ ] Module 0 retrospective in `00 - Prework / Reflections`
+
+## LinkedIn
+- [x] Profile complete (photo, headline, location, About)
+- [x ] Profile creation post published
+- [x ] Introduction post published
+- [x ] Both URLs saved in `linkedin-posts.md`
+
+## Tools
+- [x ] Python 3.10+ installed (Lesson 0.3)
+- [ x] VS Code installed with Python, Jupyter, Excel Viewer extensions (Lesson 0.4)
+- [ x] Anaconda installed (Lesson 0.4)
+- [x ] `northstar` conda environment exists (Lesson 0.4)
+- [ x] Git installed and configured (Lesson 0.6)
+- [x ] Claude account active (Lesson 0.8)
+- [ x] Second AI tool account active (Lesson 0.8)
+
+## Mindset and Habits
+- [ x] I know the four core Git commands (init, add, commit, push)
+- [ x] I know the five-part prompt structure (Role, Task, Context, Constraints, Output Format)
+- [ x] I know the verification habit (always check, always cite, always own)
+- [ x] I know the daily, weekly, and module-end file hygiene habits
+- [ x] I have a draft target job profile and a draft career direction
+
+## Ready for Module 0 Project
+- [x ] I am ready to start the "Hello, Northstar" project

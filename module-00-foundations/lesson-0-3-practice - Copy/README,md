@@ -1,0 +1,8 @@
+## What is this?
+This is a weekly sales analysis for five consecutive weeks.
+## Why does it exist?
+This analysis will help determine why some week are lower while others are higher, this will help marketing to better structure their campaign.
+## How do I run it (or read it)?
+From the analysis( results), one must look how the numbers tell a particular story about the sales that occured during those weeks. 
+## What is in here?
+Python, conda, pandas, and other libraries  are used to support this analysis.

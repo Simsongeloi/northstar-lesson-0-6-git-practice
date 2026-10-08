@@ -1,0 +1,9 @@
+# Python
+__Pycache__/
+*.pyc
+
+# Operating System
+.DS_store
+
+#Editor
+VsCode/ 
